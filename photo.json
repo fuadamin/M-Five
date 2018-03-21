@@ -1,0 +1,36 @@
+{
+   "photoa":[
+      {
+         "lat":9.018,
+         "lng":-3.194,
+         "thumbnail":"../th/1.PNG",
+         "url":"../img/1.jpg",
+         "caption":"Test 1"
+      },
+         {
+         "lat":9.2606475,
+         "lng":-3.8837028,
+         "thumbnail":"../th/1.PNG",
+         "url":"../img/1.jpg",
+         "caption":"Test 2"
+      }
+   ],
+   "fields":{
+      "lat":{
+         "type":"number"
+      },
+      "lng":{
+         "type":"number"
+      },
+      "thumbnail":{
+         "type":"string"
+      },
+      "url":{
+         "type":"string"
+      },
+    
+      "caption":{
+         "type":"string"
+      }
+   }
+}
